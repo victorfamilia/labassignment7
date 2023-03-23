@@ -25,7 +25,7 @@ void bubbleSort(int arr[], int n)
         numSwap++;
       }
     }
-    printf("pass #%d: %d\n", i+1, numSwap);
+    printf("Index #%d: %d\n", i+1, numSwap);
   }
 }
 
